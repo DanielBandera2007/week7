@@ -10,5 +10,5 @@ public abstract class Vehicle {
     // Abstract method – no body
     // Every subclass must write its own version
     public abstract void drive();
-    
+
 }
