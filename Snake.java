@@ -7,4 +7,8 @@ public class Snake extends Animal {
     public void makeMovement(){
         System.out.println("I slither!");
     }
+    @Override
+    public void eat(){
+        System.out.println("The snake eats mice");
+    }
 }
